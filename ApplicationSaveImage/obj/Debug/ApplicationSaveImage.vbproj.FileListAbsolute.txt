@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\bin\Debug\ApplicationSaveImage.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\bin\Debug\ApplicationSaveImage.exe
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\bin\Debug\ApplicationSaveImage.pdb
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\bin\Debug\ApplicationSaveImage.xml
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\obj\Debug\ApplicationSaveImage.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\obj\Debug\ApplicationSaveImage.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\obj\Debug\ApplicationSaveImage.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\obj\Debug\ApplicationSaveImage.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\obj\Debug\ApplicationSaveImage.exe
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\obj\Debug\ApplicationSaveImage.xml
+c:\users\user\documents\visual studio 2015\Projects\ApplicationSaveImage\ApplicationSaveImage\obj\Debug\ApplicationSaveImage.pdb
